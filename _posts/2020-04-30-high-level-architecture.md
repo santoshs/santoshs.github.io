@@ -1,13 +1,12 @@
 ---
 layout: post
-title: High Level Architecture
+title: High Level Architecture of IBM Server Platforms
 date:   2020-04-30 15:05:14 +0530
 categories: architecture
 author: linuxppc
 tags: [powerpc, hypervisor]
 ---
 
-# IBM Server Platforms
 
    | MSR_{SE} | MSR_{HV} | MSR_{PR} | State                   |
    |----------+----------+----------+-------------------------|

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<ul style="list-style-type:none;">
+  {% for post in site.posts %}
+  <li>
+    <div class="box-list">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="item">
+        <h4>{{ post.title | escape}}</h4>
+      </a>
+    </div>
+  </li>
+{% endfor %}
+</ul>
+{{ content }}
