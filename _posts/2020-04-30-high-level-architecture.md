@@ -23,7 +23,10 @@ tags: [powerpc, hypervisor]
 
 ![Bare Metal](/images/powernv.png)
 
+## PowerNV with Ultravisor
 
+![With Ultravisor](/images/ultra.png)
 ## PowerVM/phyp
 
 ![phyp](/images/phyp.png)
+
