@@ -7,6 +7,8 @@ author: linuxppc
 tags: [powerpc, hypervisor]
 ---
 
+*A better rendered version of the [original wiki
+page](https://github.com/linuxppc/wiki/wiki/High-level-architecture)*
 
    | MSR_{SE} | MSR_{HV} | MSR_{PR} | State                   |
    |----------+----------+----------+-------------------------|

@@ -7,6 +7,8 @@ author: linuxppc
 tags: [powerpc]
 ---
 
+*A better rendered version of the 
+[original wiki page](https://github.com/linuxppc/wiki/wiki/History)*
 
 In the beginning there was [the `arch/ppc` port](https://github.com/mpe/linux-fullhistory/commit/238327caacec57ec3c9e6a1db02370f3deec0c93)
 

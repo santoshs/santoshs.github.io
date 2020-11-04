@@ -7,6 +7,9 @@ author: linuxppc
 tags: [powerpc, build, howto]
 ---
 
+*A better rendered version of the 
+[original wiki page](https://github.com/linuxppc/wiki/wiki/Building-powerpc-kernels)*
+
 ## Toolchain
 
 If you're not lucky enough to have a powerpc laptop, you can build with a cross compiler.
